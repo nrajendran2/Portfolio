@@ -5,12 +5,7 @@
   display: flex;
   justify-content: space-around;
 }
-img  {
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
 
-}
 
 body {
   margin: 0 auto;
@@ -101,4 +96,9 @@ hr
 
 footer.page-footer {
   margin: 0;
+}
+
+.parallax-container {
+  height:400px;
+  width: 100%
 }
