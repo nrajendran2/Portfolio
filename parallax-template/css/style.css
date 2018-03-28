@@ -19,11 +19,11 @@ p {
   color: #26a69a;
 }
 
-.parallax-container {
+header{
   min-height: 380px;
   line-height: 0;
   height: auto;
-  color: rgba(255,255,255,.9);
+  background-color: rgba(240,255,255,.9);
 }
   .parallax-container .section {
     width: 100%;
